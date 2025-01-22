@@ -10,5 +10,7 @@ package studentlist;
  */
 public class PartTimeStudent extends Student{
     public int numOfCourse;
-    
+    public void display(){
+        System.out.println("PartTime Students");
+    }
 }
