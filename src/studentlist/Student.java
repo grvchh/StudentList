@@ -8,7 +8,7 @@ package studentlist;
  *
  * @author fagun at 12/05/2024
  * date 22-01-2025
- *email.gourav11@sheridancollege.ca
+ * email.gourav11@sheridancollege.ca
  */
 public class Student {
     private String name;
